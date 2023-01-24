@@ -1,4 +1,4 @@
-name: Http Console
+name: HttpConsole
 version: '${version}'
 main: javakira.httpconsole.HttpConsole
 api-version: 1.19
